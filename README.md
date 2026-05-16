@@ -13,7 +13,9 @@ This project analyzes online learning student data to identify:
 - Dropout trends
 - Region-wise performance insights
 
-The project uses Python for data preprocessing and PostgreSQL for structured data storage and SQL analysis.
+The project uses Python for data preprocessing and PostgreSQL for structured data storage and SQL-based analysis.
+
+Jupyter Notebook and Python were used for data cleaning, preprocessing, and feature engineering on student dropout data.
 
 ---
 ## Project Architecture
@@ -41,7 +43,6 @@ The project uses Python for data preprocessing and PostgreSQL for structured dat
 - SQL
 - PostgreSQL
 - SQLAlchemy
-- Jupyter Notebook
 
 ---
 
